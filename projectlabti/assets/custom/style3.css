@@ -1,0 +1,12 @@
+body {
+	background: #FFB;
+}
+
+.container{
+	background: #FFF;
+	margin: 20px auto;
+}
+
+table,tr,th {
+	text-align: center;
+}
